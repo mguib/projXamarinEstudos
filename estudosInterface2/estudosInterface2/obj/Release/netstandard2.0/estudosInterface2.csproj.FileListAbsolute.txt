@@ -1,0 +1,13 @@
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\bin\Release\netstandard2.0\estudosInterface2.deps.json
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\bin\Release\netstandard2.0\estudosInterface2.dll
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\bin\Release\netstandard2.0\ref\estudosInterface2.dll
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\bin\Release\netstandard2.0\estudosInterface2.pdb
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\obj\Release\netstandard2.0\estudosInterface2.csprojAssemblyReference.cache
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\obj\Release\netstandard2.0\estudosInterface2.AssemblyInfoInputs.cache
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\obj\Release\netstandard2.0\estudosInterface2.AssemblyInfo.cs
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\obj\Release\netstandard2.0\estudosInterface2.dll
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\obj\Release\netstandard2.0\ref\estudosInterface2.dll
+C:\Users\marcosGuibson\source\repos\estudosInterface2\estudosInterface2\estudosInterface2\obj\Release\netstandard2.0\estudosInterface2.pdb
